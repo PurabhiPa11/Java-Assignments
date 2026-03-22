@@ -1,0 +1,3 @@
+Hello, this is a test file.
+We are learning FileReader and FileWriter in Java.
+This can be used for data storage and retrieval.
